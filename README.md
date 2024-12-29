@@ -1,2 +1,2 @@
 # robot
-uhhh
+thinking
